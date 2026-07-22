@@ -1,0 +1,6 @@
+{
+  "name": "EduTrack",
+  "description": "Comprehensive student app for tracking attendance, leave requests, study notes, and class timetables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
